@@ -5,10 +5,10 @@
 "app_secret": "8abe16ada87bd27de631952780db9144",
 
 "template_id": "wlStVVBUkrRDpDOervVeKGOBwSeov8ElQiGHP05F3hI",
-
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oJDwF5yeeayoM1e7uqYGq3dfQLqA","oJDwF57jatxkbbK69EQWmN4JcKQM","oJDwF51NydPTegOi_lvnj9Ygunc0","oJDwF5w26GCuB2oyCmlKOaZwX3T4"],
  
-"weather_key": "7d52637217944d6fb0b120466063a2c7",
+"weather_key": "62918a19fbbb49e08e0c0623ccfd85f4",
 
 "region": "洛阳市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
