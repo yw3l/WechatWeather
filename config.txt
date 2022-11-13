@@ -8,7 +8,7 @@
 
 "user": ["oJDwF5yeeayoM1e7uqYGq3dfQLqA","oJDwF57jatxkbbK69EQWmN4JcKQM","oJDwF51NydPTegOi_lvnj9Ygunc0","oJDwF5w26GCuB2oyCmlKOaZwX3T4"],
  
-"weather_key": "62918a19fbbb49e08e0c0623ccfd85f4",
+"weather_key": "7d52637217944d6fb0b120466063a2c7",
 
 "region": "洛阳市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
